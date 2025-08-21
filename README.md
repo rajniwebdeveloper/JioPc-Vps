@@ -4,7 +4,7 @@
 
 If you’re interested in using or buying this package, feel free to connect:
 
-WhatsApp: ** +919771241425 **
+WhatsApp: **+919771241425**
 
 This project provides a setup to turn **Jio PC (Ubuntu Jammy)** into a **VPS-like environment** with support for:
 
