@@ -53,7 +53,7 @@ Extract and run the installer:
 
 tar -xvzf android-studio-*.tar.gz
 cd android-studio/bin
-./studio.sh
+./studio.sh 
 
 ## Usage
 
